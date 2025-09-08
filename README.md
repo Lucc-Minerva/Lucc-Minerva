@@ -4,40 +4,39 @@
 
 # 💻 Sobre mim
 
-E aí! Me chamo Lucas, desenvolvedor full-stack formado em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento back-end com Java (Spring Boot) e Node.js (Express), e no front-end com Angular e React. Estou sempre buscando criar aplicações bem estruturadas e que façam sentido pra quem usa. Gosto de aprender coisas novas, resolver problemas com código e construir soluções do zero. Curto muito trabalhar tanto no back quanto no front, e estou sempre explorando novas ferramentas e boas práticas.
+Oi! Me chamo Lucas, sou formado em Análise e Desenvolvimento de Sistema e desenvolvedor web especializado em Java/Spring Boot e Angular. Atualmente, participo da [comunidade FrontEnd Fusion](https://github.com/Projeto-FrontEnd-Fusion) como desenvolvedor voluntário back-end.
 
-<strong>🌟 Hobbies</strong>: jogar, tocar guitarra, ver animes e séries  
-<strong>🌌 Interesses</strong>: tecnologia, música, astronomia e umas nerdices  
-<strong>🧠 Estudando atualmente</strong>: back-end com Node.js, Mensageria e um pouco de Cloud com Oracle Cloud Infraestructure e AWS 
+- <strong>🌟 Hobbies</strong>: guitarra, games, animes/séries
+- <strong>🌌 Interesses</strong>: tecnologia, música, astronomia/cosmologia e cultura geek  
+- <strong>🧠 Estudando atualmente</strong>: back-end com Node.js/Typescript, Mensageria e focando em tirar a certificação OCI Foundations
 
-</br>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-t-goncalves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgoncalvesjava@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lucca16bit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lucca16bit.vercel.app)
 
 </div>
 
 ## 🛠️ Skills
-
-### Back-End
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven,gradle,npm,mysql,postgresql,mongodb&perline=12" 
-    />
-  </a>
-</p>
 
 ### Front-End
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=angular,react,js,typescript,html,css,scss,tailwind&perline=12" 
+      src="https://skillicons.dev/icons?i=angular,react,typescript,js,html,css,scss,tailwind&perline=12" 
+    />
+  </a>
+</p>
+
+### Back-End
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgresql,mongodb&perline=12" 
     />
   </a>
 </p>
@@ -47,7 +46,7 @@ E aí! Me chamo Lucas, desenvolvedor full-stack formado em Análise e Desenvolvi
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=aws,docker,hibernate,prisma,git,powershell,bash,postman,idea,vscode,visualstudio" 
+      src="https://skillicons.dev/icons?i=aws,docker,git,postman,idea,vscode,windows,linux" 
     />
   </a>
 </p>
@@ -57,12 +56,10 @@ E aí! Me chamo Lucas, desenvolvedor full-stack formado em Análise e Desenvolvi
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=kotlin,next,rabbitmq,kafka" 
+      src="https://skillicons.dev/icons?i=next,rabbitmq,kafka" 
     />
   </a>
 </p>
-
-</br>
 
 ## 📊 GitHub Stats
 
@@ -85,14 +82,11 @@ E aí! Me chamo Lucas, desenvolvedor full-stack formado em Análise e Desenvolvi
       src="https://github-readme-stats.vercel.app/api?username=lucca16bit&theme=react&hide_border=true&show_icons"
     />
   </picture>
-
 </div>
 
 ## 📍Encontre-me
 
 <div align="center">
-
-
 
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ahdmi0hch7me3l43cz6bfr619?si=8dbb8bc4fc8648c4)
 [![lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/lucca16bit)
