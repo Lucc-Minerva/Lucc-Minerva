@@ -4,10 +4,10 @@
 
 # 💻 Sobre mim
 
-Oi! Me chamo Lucas, sou formado em Análise e Desenvolvimento de Sistema e desenvolvedor web especializado em Java/Spring Boot e Angular. Atualmente, participo da [comunidade FrontEnd Fusion](https://github.com/Projeto-FrontEnd-Fusion) como desenvolvedor voluntário back-end.
+Olá, bem-vindo ao meu reposiório! Me chamo Lucas, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistema. Sou especializado em desenvolver aplicações web utilizando Angular e Java com o Spring Boot. Participo voluntariamente do grupo Nós do Morro, na qual sou responsável pelo desenvolvimento e atualização do site institucional da organização. Busco por uma primeira oportunidade dentro da área, tanto em desenvolvimento quanto em suporte de TI.
 
 - <strong>🌟 Hobbies</strong>: guitarra, games, animes/séries
-- <strong>🌌 Interesses</strong>: tecnologia, música, astronomia/cosmologia e cultura geek  
+- <strong>🌌 Interesses</strong>: tecnologia, música, astronomia e cultura geek no geral
 - <strong>🧠 Estudando atualmente</strong>: back-end com Node.js/Typescript, Mensageria e focando em tirar a certificação OCI Foundations
 
 
